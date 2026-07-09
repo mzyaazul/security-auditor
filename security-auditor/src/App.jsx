@@ -43,8 +43,8 @@ export default function App() {
             Your site's headers are<br />talking. Here's what they say.
           </h1>
           <p className="mt-4 max-w-xl text-mist leading-relaxed">
-            Paste a URL. Header Guard checks it against the same class of
-            misconfigurations attackers scan the whole internet for —
+            Paste a URL. HeaderGuard checks it against the same class of
+            misconfigurations, attackers scan the whole internet for:
             missing CSP, weak cookies, no HSTS, exposed <code className="font-mono text-paper/80">.git</code> and{" "}
             <code className="font-mono text-paper/80">.env</code> files — and hands back a graded report.
           </p>
