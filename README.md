@@ -2,9 +2,12 @@
 
 A security header auditor that scans any website and grades its HTTP security posture — in the same spirit as Mozilla Observatory or SecurityHeaders.com, built from scratch to understand the mechanics rather than call someone else's API.
 
-**Live demo:** _https://header-guard.vercel.app/_
+**Live demo:** [HeaderGuard](https://header-guard.vercel.app/_)
+
 
 **Screenshot:**
+
+<img width="480" height="218" alt="giphy" src="https://github.com/user-attachments/assets/9a0e82fc-4cf1-4fac-a2c8-8a82f9278ca8" />
 
 ---
 
